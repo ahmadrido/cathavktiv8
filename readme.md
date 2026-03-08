@@ -95,10 +95,6 @@ Mengirim percakapan ke Gemini AI dan menerima balasan.
 }
 ```
 
-## Screenshot
-
-> Tambahkan screenshot UI chatbot di sini.
-
 ## Lisensi
 
 ISC
